@@ -13,7 +13,7 @@ import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,
 
 galank = LINETCR.LINE()
 #galank.login(qr=True)
-galank.login(token='')
+galank.login(token='EslaBIZgj46taRK6aUC7.Egq9cEqQnOnQf8YrIwoOTW.h40n5gKKhmgF1bY0+71wUCve7j4hhQIGF9vXu/3I/Dw=')
 galank.loginResult()
 print "╔═════════════\n╠➣Login Success\n╚═════════════"
 
@@ -240,8 +240,8 @@ line.me/ti/p/~fuck.you__
 KAC=[galank]
 mid = galank.getProfile().mid
 Bots=[mid]
-Creator=["u864cb211ebaab6f388abf2917f90a617"]
-admin=["u864cb211ebaab6f388abf2917f90a617"]
+Creator=["u78643d09e42a36836a17cc918963a8b7"]
+admin=["u78643d09e42a36836a17cc918963a8b7"]
 
 contact = galank.getProfile()
 backup1 = galank.getProfile()
